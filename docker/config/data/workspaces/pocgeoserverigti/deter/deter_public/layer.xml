@@ -1,0 +1,16 @@
+<layer>
+  <name>deter_public</name>
+  <id>deter_public</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--21507360:184b97e1541:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>deter_public</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-11-27 13:11:33.544 UTC</dateCreated>
+</layer>
